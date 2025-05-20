@@ -27,3 +27,19 @@ instance-ubuntu            : ok=1    changed=0    unreachable=0    failed=1    s
 По заданию Molecule 4."Добавьте несколько assert в verify.yml-файл для проверки работоспособности vector-role (проверка, что конфиг валидный, проверка успешности запуска и др.)."
 Так же есть ошибки.
 
+
+#Tox
+
+![1](https://github.com/Myash-New/Ansible05/blob/main/21.jpg)
+
+![2](https://github.com/Myash-New/Ansible05/blob/main/tox%2021.jpg)
+
+![3](https://github.com/Myash-New/Ansible05/blob/main/tox%2022.jpg)
+
+#Облегчённый сценарий для molecule с драйвером molecule_podman
+
+![1](https://github.com/Myash-New/Ansible05/blob/main/podman%2021.jpg)
+
+![2](https://github.com/Myash-New/Ansible05/blob/main/podman%2022.jpg)
+
+![3](https://github.com/Myash-New/Ansible05/blob/main/podman%2023.jpg)

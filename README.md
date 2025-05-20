@@ -28,7 +28,7 @@ instance-ubuntu            : ok=1    changed=0    unreachable=0    failed=1    s
 Так же есть ошибки.
 
 
-#Tox
+# Tox
 
 ![1](https://github.com/Myash-New/Ansible05/blob/main/21.jpg)
 
@@ -36,7 +36,7 @@ instance-ubuntu            : ok=1    changed=0    unreachable=0    failed=1    s
 
 ![3](https://github.com/Myash-New/Ansible05/blob/main/tox%2022.jpg)
 
-#Облегчённый сценарий для molecule с драйвером molecule_podman
+# Облегчённый сценарий для molecule с драйвером molecule_podman
 
 ![1](https://github.com/Myash-New/Ansible05/blob/main/podman%2021.jpg)
 

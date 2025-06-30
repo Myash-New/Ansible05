@@ -1,0 +1,3 @@
+[submodule "ansible-vector-role"]
+	path = ansible-vector-role
+	url = https://github.com/Myash-New/ansible-vector-role.git
